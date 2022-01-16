@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    background-color: aqua;
+}
+header{
+    width: 100%;
+    height: 400px;
+    background-color: brown;
+}
+.center{
+    width: 100%;
+    height: 1000px;
+    background-color: aqua;
+}
+footer{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+}
+.manager{
+    width: 200px;
+    height: 300px;
+    background-color: blue;
+    position: fixed;
+    top: 70px;
+    left: 1703px;
+}
+.reklama{
+    width: 200px;
+    height: 300px;
+    background-color: blueviolet;
+    position: absolute;
+    top: 405px;
+    left: 577px;
+}
+.one{
+    width: 200px;
+    height: 300px;
+    background-color: chartreuse;
+    position: sticky;
+    top: 50px;
+    margin: 30px;
+}
+.text{
+    position: sticky;
+    top: 5px;
+    left: ;
+}

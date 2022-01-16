@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.red1{
+    background-color: red;
+    width: 600px;
+    height: 100px;
+}
+.green1{
+    background-color: green;
+    width: 600px;
+    height: 100px;
+}
+.blue1{
+    background-color: blue;
+    width: 600px;
+    height: 100px;
+}
+.highsecond{
+    width: 600px;
+    height: 100px;
+}
+.red2{
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    float: left;
+}
+.green2{
+    background-color: green;
+    width: 200px;
+    height: 100px;
+    float: left;
+}
+.blue2{
+    background-color: blue;
+    width: 200px;
+    height: 100px;
+    float: left;
+}
+.middlesecond{
+    background-color: yellow;
+    width: 600px;
+    height: 100px;
+}
+.bottomsecond{
+    width: 600px;
+    height: 100px;
+}
+.grey{
+    background-color: grey;
+    width: 300px;
+    height: 100px;
+    float: left;
+}
+.black{
+    background-color: black;
+    width: 300px;
+    height: 100px;
+    float: left;
+}
+.third{
+    width: 800px;
+    height: 350px;
+    background-color: aquamarine;
+}
+.square{
+    width: 200px;
+    height: 300px;
+    float: left;
+    margin: 30px;
+}
+#red{
+    background-color: red;
+}
+#green{
+    background-color: green;
+}
+#blue{
+    background-color: blue;
+}

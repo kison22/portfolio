@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis./css2?family=Montserrat:wght@300&=swap');
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(87, 27, 27, 0.534);
+    color: black;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Montserrat' , sans-serif;
+}
+
+h1{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 48px;
+}
+.btn{
+    text-decoration: none;
+    padding: 10px 30px;
+    color: #fff;
+    background-color: rgba(87, 27, 27, 0.534);
+}
+
+.btn-contact{
+    padding: 20px 80px;
+}
+
+.btn:hover{
+    -webkit-box-shadow: 0px 2px 15px 1px rgba(0, 0, 0, 0.8);
+    box-shadow: 0px 2px 15px 1px rgba(0, 0, 0, 0.8);
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+.second {
+    font-size: 48px;
+    text-align: center;
+}
+.second :hover{
+    color: blue;
+}
+.third{
+    height: 80vh;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    border-color: white;
+}
+img{
+    height: 100px;
+}
+.fifth{
+    width: 250px;
+    height: 100px;
+    border: 1px solid black;
+    
+}
+.fifth:hover{
+    color: rgb(248, 250, 248);
+}
+.fifth:hover{
+    color: white;
+    font-size: 30px;
+    border: 2px solid white;
+    background: linear-gradient(45deg, rgb(0, 171, 247), rgb(255, 255, 255));
+}
